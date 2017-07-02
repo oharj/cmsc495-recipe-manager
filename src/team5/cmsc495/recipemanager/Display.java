@@ -22,7 +22,7 @@ public class Display{
     private Recipe recipe = new Recipe();
     private RecipeBook book = new RecipeBook();
     /**
-     * Launch the application.
+     * Launch the application.  test
      */
     public static void main(String[] args){
         //TODO:Hardcoding ingredients, These will be replaced by the input from the screen
